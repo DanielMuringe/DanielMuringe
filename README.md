@@ -3,7 +3,7 @@
 </a>
 
 <!-- Info Header -->
-### A budding developer ready to learn as much as possible
+### A budding developer
 
 <br/>
 
