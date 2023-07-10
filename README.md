@@ -77,4 +77,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&url=mailto%3Adanielmuringe%40gmail.com)](https://mailto:danielmuringe@gmail.com)
 &nbsp;
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2FDanielMuringe)](https://www.linkedin.com/in/daniel-muringe-1016211ba/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2FDanielMuringe)](https://www.linkedin.com/in/danielmuringe/)
