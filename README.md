@@ -78,3 +78,6 @@
 &nbsp;
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2FDanielMuringe)](https://www.linkedin.com/in/danielmuringe/)
+&nbsp;
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/DanielMuringe/)
