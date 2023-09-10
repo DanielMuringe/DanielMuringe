@@ -1,4 +1,4 @@
-<a href="https://danielmuringe.github.io">
+mi<a href="https://danielmuringe.github.io">
 <img src="salutations.png" style="width=600px"/>
 </a>
 
@@ -36,7 +36,7 @@
 <!--Top Langs-->
 <picture style="width=600px">
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMuringe&card_width=600px&theme=transparent&count_private=true&show_icons=true&custom_title=My+Top+Languages%3A&layout=compact&hide=html+css"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMuringe&card_width=600px&theme=transparent&count_private=true&show_icons=true&custom_title=My+Top+Languages%3A&layout=compact&hide=html"
   media="(prefers-color-scheme: dark)"
 />
 <source
