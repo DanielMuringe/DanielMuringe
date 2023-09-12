@@ -1,4 +1,4 @@
-mi<a href="https://danielmuringe.github.io">
+<a href="https://danielmuringe.github.io">
 <img src="salutations.png" style="width=600px"/>
 </a>
 
