@@ -43,6 +43,9 @@
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMuringe&card_width=600px&theme=outrun&count_private=true&show_icons=true&custom_title=My+Top+Languages%3A&layout=compact&hide=html,css"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
+  <img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMuringe&card_width=600px&theme=transparent&count_private=true&show_icons=true&custom_title=My+Top+Languages%3A&layout=compact&hide=html,css"
+/>
 </picture>
 
 
