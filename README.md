@@ -3,7 +3,7 @@
 </a>
 
 <!-- Info Header -->
-### It's deeper than you think
+### Founder at [Jengapark](https://jengapark.com)
 
 <br/>
 
@@ -48,6 +48,3 @@
 &nbsp;
 &nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&url=https%3A%2F%2Fwww.instagram.com%2Fdaniel_muringe%2F)]( https://www.instagram.com/daniel_muringe/)
-&nbsp;
-&nbsp;
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/DanielMuringe/)
