@@ -3,7 +3,7 @@
 </a>
 
 <!-- Info Header -->
-### Founder at [Jengapark](https://jengapark.com)
+### [Founder - Jengapark](https://jengapark.com)
 
 <br/>
 
