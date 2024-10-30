@@ -7,22 +7,6 @@
 
 <br/>
 
-<!--Top Langs-->
-<picture style="width=600px">
-<source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMuringe&card_width=600px&theme=transparent&count_private=true&show_icons=true&custom_title=My+Top+Languages%3A&layout=compact&hide=html,css"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMuringe&card_width=600px&theme=outrun&count_private=true&show_icons=true&custom_title=My+Top+Languages%3A&layout=compact&hide=html,css"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-  <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMuringe&card_width=600px&theme=transparent&count_private=true&show_icons=true&custom_title=My+Top+Languages%3A&layout=compact&hide=html,css"
-/>
-</picture>
-
-
 ## Let's connect
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/DanielMuringe)
 &nbsp;
